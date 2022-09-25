@@ -1,0 +1,10 @@
+body{
+	text-align: center;
+	margin-top: 2em;
+	color: antiquewhite;
+	font-weight: bolder;
+	font-size: large;
+	font-family: 'Calligraffitti', cursive;
+	background: linear-gradient(to left, red, lawngreen);
+	letter-spacing: .2em;
+}
